@@ -2,13 +2,8 @@
 <html>
 <head>
   <title>States of Matter</title>
-  <style>
-    body {
-      background-color: lightblue;
-    }
-  </style>
 </head>
-<body>
+<body style="background-color: lightblue; margin: 0; padding: 0;">
   <h1>Welcome to the States of Matter!</h1>
   <p>Click below to learn about each state:</p>
   <ul>
